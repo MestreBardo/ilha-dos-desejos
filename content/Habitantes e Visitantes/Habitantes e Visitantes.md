@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Habitantes e Visitantes","created":"2025-07-09T23:59:25.467+01:00","modified":"2025-07-10T00:05:02.210+01:00","cssclasses":""}
+{"publish":true,"title":"Habitantes e Visitantes","created":"2025-07-09T23:59:25.467+01:00","modified":"2025-07-16T00:06:29.880+01:00","cssclasses":""}
 ---
 
 > _"Cada pessoa uma história, cada história um destino"_
@@ -18,3 +18,4 @@ Histórias únicas, amizades e inimizades podem ser construídas a partir de cad
 - [[Habitantes e Visitantes/O Barril/Davina San'tors]]
 - [[Habitantes e Visitantes/O Barril/Grande Martha]]
 - [[Habitantes e Visitantes/O Barril/Aurey Nautilhos]]
+- [[Habitantes e Visitantes/O Barril/Kathra Ganovina]]
