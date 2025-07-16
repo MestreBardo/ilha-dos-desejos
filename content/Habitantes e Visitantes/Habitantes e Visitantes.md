@@ -2,6 +2,7 @@
 {"publish":true,"title":"Habitantes e Visitantes","created":"2025-07-09T23:59:25.467+01:00","modified":"2025-07-16T00:29:51.270+01:00","cssclasses":""}
 ---
 
+
 > _"Cada pessoa uma história, cada história um destino"_
 
 Os moradores e viajantes são parte importante da ilha, desde um nobre endinheirado até um simples plantador de batatas, passando por um viajante vindo do continente. Eles movimentam o dia a dia da ilha e dão vida aos seus locais.

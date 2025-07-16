@@ -5,21 +5,21 @@
 > Atrás de uma ilusão mágica na cozinha subterrânea do Barril, uma porta ornamentada com símbolos incompreensíveis desafia qualquer tentativa de abertura. A estrutura de origem misteriosa permanece selada, aguardando por aqueles determinados o suficiente para decifrar seus segredos ancestrais.
 # Relatório da Aventura
 ## Arquitetura do Impossível
-A batalha contra os ratos gigantes havia conduzido o grupo até a cozinha subterrânea do Barril, um espaço que o proprietário conhecia como a palma da mão. Ou pelo menos pensava conhecer.
+A batalha contra os ratos gigantes havia conduzido o grupo até a cozinha subterrânea do [[O Barril\|Barril]], um espaço que o proprietário conhecia como a palma da mão. Ou pelo menos pensava conhecer.
 
-Foi Buck quem primeiro sentiu a anomalia — uma pulsação mágica emanando de uma das paredes da cozinha. Suas percepções arcanas detectaram algo oculto, como se a própria realidade estivesse sendo dobrada naquele ponto específico. Quando a ilusão foi desfeita, revelou-se algo que deveria ser impossível: uma porta incrustada na parede de pedra.
+Foi [[O Grupo/Buck]] quem primeiro sentiu a anomalia — uma pulsação mágica emanando de uma das paredes da cozinha. Suas percepções arcanas detectaram algo oculto, como se a própria realidade estivesse sendo dobrada naquele ponto específico. Quando a ilusão foi desfeita, revelou-se algo que deveria ser impossível: uma porta incrustada na parede de pedra.
 
 O proprietário do Barril ficou boquiaberto. Seis anos utilizando aquela cozinha e jamais havia sequer suspeitado da existência daquela estrutura. A porta desafiava qualquer lógica arquitetônica da região — entalhes serpentinos se entrelaçavam pela superfície de madeira escura, formando criaturas aladas e escamosas que pareciam dançar ao redor de símbolos incompreensíveis. As dobradiças eram adornadas com relevos de montanhas estilizadas, e acima da porta, cinco símbolos complexos e angulares estavam gravados na pedra, cada um parecendo conter significados que escapavam à compreensão imediata.
 
-Força bruta, magia, persuasão — nada funcionou. A porta permanecia imóvel, como se fosse parte sólida da própria terra. Foi então que Brisingr assumiu a tarefa de decifrar o enigma, compreendendo que aquela barreira não se abriria através de métodos convencionais.
+Força bruta, magia, persuasão — nada funcionou. A porta permanecia imóvel, como se fosse parte sólida da própria terra. Foi então que [[O Grupo/Brisingr]] assumiu a tarefa de decifrar o enigma, compreendendo que aquela barreira não se abriria através de métodos convencionais.
 ## O Segredo da Serva Bêbada
-A busca pelo significado dos cinco símbolos misteriosos se tornou uma obsessão para Brisingr e o grupo. Bibliotecas foram vasculhadas, páginas empoeiradas foram consultadas, e até mesmo a loja de runas da cidade foi visitada em busca de qualquer pista. Cada tentativa resultava em frustração — os símbolos pareciam pertencer a um sistema de escrita completamente desconhecido na região.
+A busca pelo significado dos cinco símbolos misteriosos se tornou uma obsessão para [[O Grupo/Brisingr]] e o grupo. Bibliotecas foram vasculhadas, páginas empoeiradas foram consultadas, e até mesmo a loja de runas da cidade foi visitada em busca de qualquer pista. Cada tentativa resultava em frustração — os símbolos pareciam pertencer a um sistema de escrita completamente desconhecido na região.
 
 A resposta veio da fonte mais improvável possível.
 
-Naruda, a funcionária do Barril, estava particularmente embriagada naquela noite quando tropeçou próximo à porta oculta. Entre goles e soluços, murmurou casualmente a palavra "mar" — e algo extraordinário aconteceu. Um dos cinco símbolos simplesmente desapareceu da pedra, como se nunca tivesse existido.
+[[Habitantes e Visitantes/O Barril/Naruda Strohtrock\|Naruda]], a funcionária do Barril, estava particularmente embriagada naquela noite quando tropeçou próximo à porta oculta. Entre goles e soluços, murmurou casualmente a palavra "mar" — e algo extraordinário aconteceu. Um dos cinco símbolos simplesmente desapareceu da pedra, como se nunca tivesse existido.
 
-O silêncio que se seguiu foi quebrado apenas pelos questionamentos urgentes do grupo. Como ela sabia? De onde vinha aquele conhecimento? Naruda, ainda cambaleante mas subitamente mais lúcida, revelou que havia visto aquele exato símbolo na residência dos Karzminov — uma família de anões que vivia na parte nobre da cidade — acompanhado de sua tradução.
+O silêncio que se seguiu foi quebrado apenas pelos questionamentos urgentes do grupo. Como ela sabia? De onde vinha aquele conhecimento? [[Habitantes e Visitantes/O Barril/Naruda Strohtrock\|Naruda]], ainda cambaleante mas subitamente mais lúcida, revelou que havia visto aquele exato símbolo na residência dos Karzminov — uma família de anões que vivia na parte nobre da cidade — acompanhado de sua tradução.
 
 A revelação trouxe uma nova perspectiva: alguém na cidade não apenas conhecia aqueles símbolos, mas possuía suas traduções. E essa pessoa morava atrás de portões dourados, longe dos porões úmidos onde segredos antigos esperavam por palavras certas.
 ## Encontros Fortuitos e Chutes Certeiros

@@ -9,7 +9,6 @@
 > **“Ali estão os vilões! Não deixem fugir!”**
 > 
 > Sem dar tempo para resposta, ele investe, desembainhando a lâmina com fúria. As pessoas ao redor recuam em choque, mas ninguém interfere. O combate começa, e o grupo não faz ideia de quem é esse homem — ou por que quer lutar.
-
 # Relatório da Aventura
 ## O Teatro do Absurdo
 O encontro com o autoproclamado "Lâmina Negra" foi, para dizer o mínimo, desconcertante. O homem surgiu brandindo ameaças e uma postura intimidadora, mas sua investida durou exatos três segundos — o tempo necessário para Lowendir aplicar um chute certeiro que o enviou ao chão como um saco de batatas mal amarrado.

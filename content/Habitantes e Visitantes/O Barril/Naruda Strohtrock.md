@@ -2,6 +2,7 @@
 {"publish":true,"title":"Naruda Strohtrock","created":"2025-07-10T00:04:34.234+01:00","modified":"2025-07-16T00:04:30.148+01:00","cssclasses":""}
 ---
 
+
 ![[Imagens/Pessoas/O Barril/Naruda Strohtrock.webp|200]]
 - **Idade**: 26 anos
 - **Raça**: Gnomo

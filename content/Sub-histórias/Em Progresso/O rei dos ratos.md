@@ -7,7 +7,7 @@
 > O mistério deixado pelo poema aponta para segredos antigos que podem estar conectados aos recentes eventos no Barril.
 # Relatório da Aventura
 ## A Lenda Sussurrada
-A missão no Barril terminou com mais do que apenas roedores mortos espalhados pelo chão. Entre os destroços e a sujeira, o grupo descobriu um pergaminho amarelado, suas bordas roídas — ironicamente apropriado — contendo versos sobre um possível Rei dos Ratos.
+A missão no [[O Barril\|Barril]] terminou com mais do que apenas roedores mortos espalhados pelo chão. Entre os destroços e a sujeira, o grupo descobriu um pergaminho amarelado, suas bordas roídas — ironicamente apropriado — contendo versos sobre um possível Rei dos Ratos.
 
 A investigação subsequente revelou que os versos não eram invenção de algum bêbado criativo. Moradores mais velhos da região reconheceram fragmentos da história, sussurrando que a lenda tinha raízes na Vila Costeira.
 
@@ -19,8 +19,8 @@ A busca por respostas na Vila Costeira se revelou um exercício frustrante de ge
 
 O padrão era claro: ou as pessoas não sabiam de nada, ou sabiam demais e preferiam o silêncio.
 
-Foi Maximillian quem trouxe a primeira pista tangível. Enquanto os outros se frustravam com os moradores evasivos, ele notou algo peculiar nas sombras dos becos: ratos correndo em formação organizada, cada um carregando pequenos objetos brilhantes — moedas, anéis, pedaços de metal precioso.
+Foi [[O Grupo/Maximilian Vanben\|Maximilian]] quem trouxe a primeira pista tangível. Enquanto os outros se frustravam com os moradores evasivos, ele notou algo peculiar nas sombras dos becos: ratos correndo em formação organizada, cada um carregando pequenos objetos brilhantes — moedas, anéis, pedaços de metal precioso.
 
-O comportamento era completamente antinatural. Ratos não colecionavam tesouros como corvos, muito menos de forma tão sistemática. Maximillian tentou seguir a procissão improvisada, mas os roedores desapareceram em frestas e passagens que pareciam conhecer melhor que qualquer mapa da vila.
+O comportamento era completamente antinatural. Ratos não colecionavam tesouros como corvos, muito menos de forma tão sistemática. [[O Grupo/Maximilian Vanben\|Maximilian]] tentou seguir a procissão improvisada, mas os roedores desapareceram em frestas e passagens que pareciam conhecer melhor que qualquer mapa da vila.
 
 O que ficou foi a certeza de que algo muito organizado estava acontecendo debaixo dos narizes dos moradores — algo que eles preferiam ignorar ou fingir que não viam.

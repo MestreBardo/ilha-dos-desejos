@@ -2,6 +2,7 @@
 {"publish":true,"title":"Os Tutoriais","created":"2025-07-09T23:47:58.581+01:00","modified":"2025-07-09T23:54:46.961+01:00","cssclasses":""}
 ---
 
+
 # Itens e Relacionamentos na Ilha dos Desejos
 Durante as aventuras na Ilha dos Desejos, você encontrará diversos itens, desde tesouros raros e artefatos antigos até objetos mundanos com história. Esses itens não são apenas fontes de riqueza, mas também uma ferramenta essencial para interagir com os habitantes da ilha e influenciar a narrativa. Saber quando vender, trocar ou doar um item pode abrir portas, fortalecer alianças e criar oportunidades inesperadas.
 # Encontrando Itens

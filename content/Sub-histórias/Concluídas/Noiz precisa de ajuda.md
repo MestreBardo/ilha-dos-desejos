@@ -2,17 +2,16 @@
 {"publish":true,"title":"Noiz precisa de ajuda","created":"2025-07-15T23:01:46.785+01:00","modified":"2025-07-15T23:18:55.494+01:00","cssclasses":""}
 ---
 
-> No **Apreciador de Vinho**, um pergaminho grosseiro e marcado por uma mão vermelha chamava atenção no quadro de ajuda. A mensagem, escrita de forma desleixada e repleta de erros, pedia que alguém procurasse por **Wanta** para obter mais informações sobre o desaparecimento de um amigo.
+> No [[O Apreciador de Vinho\|Apreciador de Vinho]], um pergaminho grosseiro e marcado por uma mão vermelha chamava atenção no quadro de ajuda. A mensagem, escrita de forma desleixada e repleta de erros, pedia que alguém procurasse por [[Wanta]] para obter mais informações sobre o desaparecimento de um amigo.
 > 
 > O bilhete transmitia urgência e confusão, mas deixava claro que aqueles que aceitassem a tarefa deveriam encontrar Wanta antes de tudo.
-
 # Relatório da Aventura
 ## O Encontro com Wanta
 Após aceitar a missão, o grupo avistou [[Wanta]] e seus dois companheiros sentados em uma mesa próxima no próprio [[Apreciador de Vinho]]. Ao se aproximarem e iniciarem uma conversa, descobriram que [[Aux]], o amigo mencionado no bilhete, havia se separado do grupo durante uma recente aventura e agora estava desaparecido.
 
 Apesar de claramente preocupados, [[Wanta]] e seus amigos não tinham ideia de onde [[Aux]] poderia estar, deixando para o grupo a tarefa de descobrir seu paradeiro.
 ## O Goblin da Cela Esquecida
-Enquanto exploravam a praça central do assentamento abandonado, após a dura batalha contra os Bandidos do Beco Sujo, o grupo se deparou com uma cela de madeira rústica montada bem no meio do local. Parecia improvisada, talvez usada pelos próprios bandidos como prisão temporária ou punição pública.
+Enquanto exploravam a praça central do assentamento abandonado, após a dura batalha contra [[Os Bandidos do Beco Sujo\|os Bandidos do Beco Sujo]], o grupo se deparou com uma cela de madeira rústica montada bem no meio do local. Parecia improvisada, talvez usada pelos próprios bandidos como prisão temporária ou punição pública.
 
 Lá dentro, sentado no chão de terra batida e com os olhos perdidos no vazio, estava um jovem goblin chamado [[Aux]]. Não havia correntes, nem sinais de resistência — apenas um portão de madeira trancado e um menino de mente dispersa, que parecia conversar mais com os próprios pensamentos do que com o mundo ao redor. [[Aux]] era confuso, distraído, e facilmente se perdia em devaneios a cada tentativa de diálogo.
 

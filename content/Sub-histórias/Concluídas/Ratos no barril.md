@@ -4,8 +4,7 @@
 
 > Na primeira vez que passaram pelo Barril, a famosa taverna da Ilha dos Desejos, o grupo encontrou os funcionários reunidos do lado de fora, claramente aflitos. [[Habitantes e Visitantes/O Barril/Davina San'tors\|Davina]], uma das funcionárias, estava inconsciente no chão, enquanto os demais tentavam reanimá-la em meio a murmúrios ansiosos.
 > 
-> [[Habitantes e Visitantes/O Barril/Mateo Castellanos]], o administrador da taverna, aproximou-se do grupo, explicando que algo estranho havia acontecido no interior do estabelecimento, deixando a equipe assustada demais para lidar com a situação. Com um tom urgente, [[Habitantes e Visitantes/O Barril/Mateo Castellanos\|Mateo]] pediu a ajuda dos aventureiros para resolver o problema e trazer tranquilidade de volta ao Barril.
-
+> [[Habitantes e Visitantes/O Barril/Mateo Castellanos\|Mateo]], o administrador da taverna, aproximou-se do grupo, explicando que algo estranho havia acontecido no interior do estabelecimento, deixando a equipe assustada demais para lidar com a situação. Com um tom urgente, [[Habitantes e Visitantes/O Barril/Mateo Castellanos\|Mateo]] pediu a ajuda dos aventureiros para resolver o problema e trazer tranquilidade de volta ao Barril.
 # Relatório da Aventura
 ## O Caos no Barril
 Ao adentrarem o Barril, o grupo foi imediatamente confrontado por um cenário de completo caos. Mesas e cadeiras estavam reviradas, pedaços de comida espalhados pelo chão e marcas de destruição por toda parte. O local, que outrora deveria ser um refúgio para marinheiros e habitantes da ilha, parecia ter se tornado o centro de uma calamidade.

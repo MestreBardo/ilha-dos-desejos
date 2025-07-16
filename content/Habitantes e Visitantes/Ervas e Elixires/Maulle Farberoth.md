@@ -2,6 +2,7 @@
 {"publish":true,"title":"Maulle Farberoth","created":"2025-07-16T00:20:19.312+01:00","modified":"2025-07-16T00:21:52.304+01:00","cssclasses":""}
 ---
 
+
 ![[imagem.webp]]
 - **Idade**: 35 anos
 - **Raça**: Gnomo

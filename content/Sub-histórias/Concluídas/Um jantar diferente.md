@@ -3,7 +3,6 @@
 ---
 
 > Na taverna do Barril, um bilhete discreto chama a atenção. Escrito com caligrafia firme e assinado apenas por "Glauber", ele pede ajuda urgente para a mansão Polter. A mensagem é simples, mas o tom transmite a pressa e a importância da tarefa, deixando um ar de mistério sobre o que realmente espera aqueles que aceitarem o chamado.
-
 # Relatório da Aventura
 ## A Convocação de Glauber
 Lowendir seguiu até a parte nobre da cidade, onde encontrou-se com Glauber, o mordomo da família Polter. O homem, de postura rígida e semblante preocupado, foi direto ao ponto.
@@ -11,12 +10,10 @@ Lowendir seguiu até a parte nobre da cidade, onde encontrou-se com Glauber, o m
 “Preciso de pessoas dispostas e confiáveis para um evento importante na mansão Polter,” disse Glauber, sua voz grave, mas carregada de urgência. “Apresente-se no dia 10, e traga mais ajudantes, se puder. A situação exige mãos extras.”
 
 Com isso, Glauber entregou uma breve instrução e despediu-se com um aceno contido, voltando para suas responsabilidades na mansão.
-
 ## Preparativos para a Missão
 Após um pedido de Brisingr, [[Habitantes e Visitantes/A Taverna da esquerda/Nasnorra Sekidrolova\|Nasnorra]] decidiu juntar-se ao grupo para realizar a missão. Com sua típica determinação, ela fez questão de preparar boas roupas e garantir que todos estivessem em condições adequadas para atender ao chamado na mansão Polter.
 
 Depois de organizar os detalhes e alinhar os preparativos, o grupo, devidamente arrumado, partiu em direção à parte nobre da cidade, prontos para cumprir sua tarefa.
-
 ## A Chegada à Mansão Polter
 O grupo chegou à elegante Mansão Polter acompanhado de [[Habitantes e Visitantes/A Taverna da esquerda/Nasnorra Sekidrolova\|Nasnorra]] , trajando roupas apropriadas para suas funções como serviçais no aguardado jantar. A fachada da mansão refletia a sofisticação e o prestígio da família Polter. Glauber, o mordomo, recebeu-os na entrada com sua formalidade característica, conduzindo-os para dentro.
 
@@ -27,21 +24,18 @@ Armelia, com sua postura impecável e tom direto, forneceu um breve, mas eficaz,
 **“Sigam os sinais sem hesitar. Um único erro pode atrair olhares indesejados, e isso é algo que não podemos permitir,”** reforçou Armelia, enquanto fazia demonstrações práticas com passos precisos e movimentos metódicos.
 
 Com as instruções claras e suas tarefas definidas, o grupo começou a se preparar para o jantar. No entanto, mesmo com a aparência tranquila da mansão, a sensação de algo fora do comum persistia no ar.
-
 ## A Chegada dos Convidados
 Os convidados começaram a chegar, anunciados com todo o protocolo esperado em um evento de tamanha importância. A primeira a adentrar a Mansão Polter foi a prestigiada **Família Karzmirnov**, liderada pelo patriarca Thargrim e pela matriarca Ysdrina, acompanhados de seus filhos, Durak, Rurik e Varnor. A postura da família demonstrava um equilíbrio entre formalidade e genuíno respeito, não apenas pelo local, mas também pelos empregados que os recepcionaram com cortesia.
 
 Os Karzmirnov foram conduzidos à sala de jantar, onde a atmosfera de elegância já estava estabelecida. Durante todo o trajeto, mostraram-se cordiais e atentos, com comentários respeitosos que traziam uma leveza inesperada ao ambiente. Seus gestos e palavras refletiam não apenas seu status, mas também sua consideração pelas pessoas ao redor.
 
 Pouco depois, os anfitriões chegaram. Diferente dos Karzmirnov, sua presença exalava uma postura mais altiva, marcada por olhares calculados e movimentos meticulosos. O grupo foi designado para recebê-los, enfrentando a tarefa com a compostura adquirida sob a orientação de Armelia. O contraste entre os convidados e os anfitriões era evidente, criando uma tensão sutil que começava a se manifestar na mansão.
-
 ## A Tensão Cresce no Início do Jantar
 Com os convidados já acomodados e o jantar prestes a começar, a atmosfera na sala de jantar era de expectativa e requinte. No entanto, para Buck, um dos serviçais improvisados, a pressão do evento já começava a pesar. A constante necessidade de perfeição e o rigoroso protocolo exigido no serviço testavam seus limites, e cada pequeno erro cometido por seus companheiros só contribuía para agravar sua frustração.
 
 Desde os primeiros minutos, pequenos deslizes começaram a acontecer. Um gesto mal interpretado aqui, uma troca de copos ali, e Buck sentia como se o peso do jantar inteiro estivesse em seus ombros. Seus esforços para manter o padrão exigido por Armelia eram prejudicados pela aparente falta de colaboração de alguns, ou pelas gafes inesperadas que insistiam em surgir.
 
 Quando o primeiro prato de entrada foi servido, Buck já exalava uma aura de exasperação contida. Apesar de sua tentativa de manter a compostura, seu semblante denunciava o esforço para não deixar a irritação transparecer diante dos convidados, que, por sua vez, pareciam alheios à turbulência que se desenrolava nos bastidores. O jantar, que mal havia começado, já prometia ser uma longa e desafiadora noite para ele.
-
 ## O Corredor Trancado e as Visões Perturbadoras
 No meio do serviço, Maxmilian percebeu que algo estava errado. Ao atravessar o corredor entre a cozinha e a sala de jantar, todas as portas ao redor dele se trancaram de forma inexplicável. Ele estava preso, sem saída, enquanto o silêncio ao seu redor parecia se tornar cada vez mais pesado. Tentando desesperadamente abrir as portas, Maxmilian sentiu a atmosfera mudar – algo estranho e inquietante estava acontecendo.
 
@@ -52,7 +46,6 @@ De repente, uma música estranha e distorcida ecoou pelo corredor, e o urso move
 Finalmente, Maxmilian conseguiu abrir a porta da cozinha e, com o corpo tomado pelo pânico, caiu sentado no chão do outro lado, ainda tentando processar o que havia acabado de acontecer. Enquanto recuperava o fôlego, algo ainda mais estranho chamou sua atenção. Pela janela da cozinha, ele viu uma nova figura: um coelho de pelugem roxa com olhos profundos. A criatura apenas colocou a cabeça para dentro do campo de visão, observando-o por um breve momento. Então, lentamente, retirou-se para trás da parede da janela, sumindo sem deixar rastro.
 
 O corredor estava vazio novamente, mas a sensação de algo terrivelmente errado continuava presente.
-
 ## Tremores, Escuridão e Reunião na Sala de Descanso
 O clima cuidadosamente mantido na Mansão Polter foi abruptamente interrompido por tremores súbitos que ecoaram por toda a estrutura. No início, os presentes tentaram ignorar o incômodo, mas os tremores rapidamente se intensificaram, acompanhados por um som metálico e inquietante enquanto portas e janelas se trancavam sozinhas, como se sob efeito de um feitiço. A situação tornou-se ainda mais desconcertante quando todas as fontes de luz começaram a apagar-se uma a uma. Lanternas, candelabros e até as velas mais simples foram engolidas pela escuridão, deixando o ambiente mergulhado em sombras profundas e inquietantes.
 
@@ -61,7 +54,6 @@ O grupo, percebendo a gravidade do que acontecia, alertou a todos sobre um poss�
 Apesar de alguma relutância inicial, o grupo e os outros presentes perceberam que a sala de descanso, ampla e bem mobiliada, era realmente uma opção sensata. Acomodados em cadeiras e sofás luxuosos, todos começaram a discutir o que poderia estar acontecendo. A tensão era palpável, enquanto sussurros sobre teorias e suposições ecoavam pela sala, e olhares atentos buscavam qualquer pista no ambiente.
 
 O contraste entre a decoração refinada da sala e o crescente sentimento de perigo tornava tudo ainda mais inquietante. Embora temporariamente reunidos e aparentemente seguros, a sensação de que algo maior estava prestes a acontecer pairava no ar, deixando claro que os mistérios daquela noite estavam longe de se resolver.
-
 ## Exploração e Segredos Revelados
 Com a mansão em completo estado de caos, o grupo começou a perceber a gravidade da situação. Estrondos ecoavam pelos corredores enquanto as paredes apresentavam rachaduras que pareciam avançar rapidamente, como se o tempo estivesse cobrando seu preço de forma acelerada. Cada instante trazia novas evidências de que a mansão estava se deteriorando, deixando claro que permanecer parado seria perigoso.
 
@@ -72,7 +64,6 @@ A busca os levou por corredores esquecidos, passagens ocultas e salas trancadas,
 A investigação revelou ainda que **Louis Polter**, o patriarca, mantinha um esquema clandestino de contrabando, escondendo mercadorias valiosas no subsolo da mansão. Mapas de rotas e listas de bens ilegais foram encontrados em um escritório particular. Como se não bastasse, a **Chefe dos Empregados, Armelia**, também tinha seus próprios segredos: furtos regulares de joias e objetos de valor, cuidadosamente dissimulados, mas agora evidenciados por itens escondidos em compartimentos secretos.
 
 Enquanto o grupo se deparava com cada nova revelação, Varnor parecia mais animado a cada descoberta, como se cada segredo fosse uma peça de um quebra-cabeça que ele sempre quis resolver. A cada sala revistada, ficava claro que o que estava em jogo não era apenas a integridade da casa, mas também a verdade sobre aqueles que ali viviam.
-
 ## O Segredo no Subsolo e a Escolha Final
 Guiados por uma pista inusitada deixada pelas gêmeas Polter, conhecidas por desenhar aventuras e mapas da mansão com sua criatividade ilimitada, o grupo fez uma descoberta intrigante. Entre rabiscos e representações detalhadas dos corredores e salas, um desenho chamou a atenção: um caminho secreto no subsolo da mansão, levando a uma sala desconhecida. Convencidos de que essa poderia ser a origem do problema, o grupo seguiu para investigar.
 
@@ -89,7 +80,6 @@ Quando o brilho desapareceu, o Sr. Polter permaneceu ajoelhado no chão, agora c
 Ao testemunhar a cena, Glauber, que havia se mantido profissional e reservado durante anos, pareceu ser tomado por uma súbita coragem. Movido pela intensidade do momento e pela vulnerabilidade que a situação expôs, ele decidiu finalmente se entregar aos seus sentimentos. Sem hesitar, Glauber aproximou-se da Sra. Liara, trocando olhares que diziam tudo. Em um gesto inesperado, ele a beijou, selando um amor há muito reprimido.
 
 O subsolo da mansão, antes palco de tensão e mistério, agora abrigava um misto de alívio e novas esperanças, mesmo em meio às consequências que viriam para a família Polter.
-
 ## Reconhecimento e Recompensas
 Com o caos finalmente resolvido e a mansão novamente estável, o patriarca da família Karzmirnov, demonstrando gratidão pelo esforço e coragem do grupo, tomou a frente para recompensá-los. Em um gesto generoso, ele ofereceu aos heróis um pedido, algo que ele se comprometeria a realizar como agradecimento pelo trabalho árduo que salvaria sua família e os demais presentes.
 
@@ -189,7 +179,6 @@ _Um diário antigo, com a capa de couro já desgastada pelo tempo e bordas levem
 - **10 de Essenta, 1553 - Compra Correntes de prata lunar** _"Boa compra, mas as correntes estavam sujas e precisei gastar muito para limpá-las."_
 ## Um Poema para Liara
 _Escondido entre as páginas de um livro antigo, este poema foi cuidadosamente dobrado. O papel, amarelado pelo tempo, exala um leve aroma de flores secas._
-
 ### Conteúdo:
 _**Liara, Meu Sol**_
 
