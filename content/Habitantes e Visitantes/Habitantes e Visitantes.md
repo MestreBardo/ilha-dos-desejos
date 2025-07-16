@@ -27,3 +27,26 @@ Histórias únicas, amizades e inimizades podem ser construídas a partir de cad
 - [[Habitantes e Visitantes/A Forja dos Três/Baldrik Steinhamm]]
 - [[Habitantes e Visitantes/A Forja dos Três/George Shades]]
 - [[Habitantes e Visitantes/A Forja dos Três/Gromrik Steinhamm]]
+## Prisma Versal
+- [[Habitantes e Visitantes/Prisma Versal/Aelindra Aelmyris]]
+- [[Habitantes e Visitantes/Prisma Versal/Thalindra Aelmyris]]
+## Outras Figuras
+- [[Habitantes e Visitantes/Outros/Mercenários/Tommaso Silvatore]]
+# Cidade de Esperanza - Parte Nobre
+## Os Polters
+- [[Habitantes e Visitantes/Os Polters/Louis Polter]]
+- [[Habitantes e Visitantes/Os Polters/Liara Polter]]
+- [[Habitantes e Visitantes/Os Polters/Cristie Polter]]
+- [[Habitantes e Visitantes/Os Polters/Elren Polter]]
+- [[Habitantes e Visitantes/Os Polters/Olena Polter]]
+- [[Habitantes e Visitantes/Os Polters/Tiana Polter]]
+### Empregados
+- [[Habitantes e Visitantes/Os Polters/Empregados/Armelia]]
+- [[Habitantes e Visitantes/Os Polters/Empregados/Elka Dorn]]
+- [[Habitantes e Visitantes/Os Polters/Empregados/Glauber]]
+## Os Karzmirnov
+- [[Habitantes e Visitantes/Os Karzmirnov/Durak Karzmirnov]]
+- [[Habitantes e Visitantes/Os Karzmirnov/Rurik Karzmirnov]]
+- [[Habitantes e Visitantes/Os Karzmirnov/Varnor Karzmirnov]]
+- [[Habitantes e Visitantes/Os Karzmirnov/Thargrim Karzmirnov]]
+- [[Habitantes e Visitantes/Os Karzmirnov/Ysdrina Karzmirnov]]

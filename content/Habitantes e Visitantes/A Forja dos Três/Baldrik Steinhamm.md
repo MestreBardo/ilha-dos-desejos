@@ -2,7 +2,6 @@
 {"publish":true,"title":"Baldrik Steinhamm","created":"2025-07-16T00:23:37.064+01:00","modified":"2025-07-16T00:26:17.981+01:00","cssclasses":""}
 ---
 
-
 ![[imagem.webp]]
 - **Idade**: 35 anos
 - **Raça**: Gnomo

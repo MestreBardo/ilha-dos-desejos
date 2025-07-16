@@ -2,7 +2,6 @@
 {"publish":true,"title":"Nasnorra Sekidrolova","created":"2025-07-10T00:04:10.415+01:00","modified":"2025-07-16T00:08:26.280+01:00","cssclasses":""}
 ---
 
-
 ![[Imagens/Pessoas/Taverna da Esquerda/Nasnorra Sekidrolova.webp|200]]
 - **Idade:** 28 Anos
 - **Raça**: Anã
