@@ -2,6 +2,7 @@
 {"publish":true,"title":"Um jantar diferente","created":"2025-07-15T23:01:44.765+01:00","modified":"2025-07-15T23:46:53.172+01:00","cssclasses":""}
 ---
 
+
 > Na taverna do Barril, um bilhete discreto chama a atenção. Escrito com caligrafia firme e assinado apenas por "Glauber", ele pede ajuda urgente para a mansão Polter. A mensagem é simples, mas o tom transmite a pressa e a importância da tarefa, deixando um ar de mistério sobre o que realmente espera aqueles que aceitarem o chamado.
 # Relatório da Aventura
 ## A Convocação de Glauber

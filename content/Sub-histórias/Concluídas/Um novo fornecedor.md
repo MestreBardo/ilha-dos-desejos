@@ -2,6 +2,7 @@
 {"publish":true,"title":"Um novo fornecedor","created":"2025-07-15T23:01:50.720+01:00","modified":"2025-07-15T23:48:52.877+01:00","cssclasses":""}
 ---
 
+
 > Após resolverem o problema do fornecimento de peixes, envolvendo a maldição zumbi que levou à morte de Claurei, Ambrosius Megalos encarregou o grupo de uma nova tarefa. Ele precisava que eles localizassem o irmão de Claurei, que poderia assumir o lugar do falecido como fornecedor de peixes e garantir a continuidade das entregas.
 # Relatório da Aventura
 ## A Busca pelo Irmão de Claurei

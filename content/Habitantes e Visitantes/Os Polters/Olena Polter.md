@@ -2,6 +2,7 @@
 {"publish":true,"title":"Olena Polter","created":"2025-07-16T16:05:46.394+01:00","modified":"2025-07-16T16:18:10.616+01:00","cssclasses":""}
 ---
 
+
 - **Idade**: 20 anos
 - **Raça**: Humano
 - **Gênero**: Feminino

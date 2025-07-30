@@ -3,6 +3,7 @@
 ---
 
 
+
 > _"Cada pessoa uma história, cada história um destino"_
 
 Os moradores e viajantes são parte importante da ilha, desde um nobre endinheirado até um simples plantador de batatas, passando por um viajante vindo do continente. Eles movimentam o dia a dia da ilha e dão vida aos seus locais.
