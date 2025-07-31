@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"O Reencontro e a Adaga Ensanguentada","created":"2025-07-30T11:52:25.157+01:00","modified":"2025-07-30T11:53:55.706+01:00","cssclasses":""}
+{"publish":true,"title":"O Reencontro e a Adaga Ensanguentada","created":"2025-07-30T11:52:25.157+01:00","modified":"2025-07-30T12:20:34.338+01:00","cssclasses":""}
 ---
 
 Após resgatar [[Aux]] do assentamento abandonado, o grupo seguiu rumo à vila costeira, onde souberam que [[Wanta]] e alguns goblins refugiados viviam em uma casa modesta junto à praia. O cheiro do mar e o som constante das ondas deram um tom inesperadamente sereno à conclusão da missão.
@@ -10,4 +10,6 @@ Como havia sido prometido no pedido de ajuda entregue anteriormente ao grupo, [[
 
 Com a missão concluída e [[Aux]] em segurança, o grupo pôde enfim retornar a Esperanza, com mais uma história gravada em sua jornada.
 
+---
 **Relatório Anterior:** [[Sub-histórias/Concluídas/Noiz precisa de ajuda/Relatório  da Aventura/O Goblin da Cela Esquecida]]
+**Aventura**: [[Sub-histórias/Concluídas/Noiz precisa de ajuda/Noiz precisa de ajuda]]
