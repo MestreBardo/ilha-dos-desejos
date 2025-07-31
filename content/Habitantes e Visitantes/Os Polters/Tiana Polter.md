@@ -2,8 +2,6 @@
 {"publish":true,"title":"Tiana Polter","created":"2025-07-16T16:05:48.352+01:00","modified":"2025-07-16T16:21:59.827+01:00","cssclasses":""}
 ---
 
-
-
 - **Idade**: 8 anos
 - **Raça**: Humano
 - **Gênero**: Feminina
@@ -20,7 +18,6 @@ Apesar da pouca idade, as gêmeas já sabem muito mais sobre os segredos da fam�
 Tiana, a mais energética, costuma liderar as explorações e é a primeira a fazer perguntas inconvenientes que deixam os adultos desconfortáveis. [[Habitantes e Visitantes/Os Polters/Cristie Polter]] , por outro lado, é a estrategista do par, observando e montando teorias mais detalhadas sobre tudo o que acontece na mansão. Juntas, elas são uma dupla inseparável, observando o mundo dos adultos através de uma lente curiosa e imaginativa.
 # Segredos
 ## Conhecimento dos Segredos da Família
-
 Tiana e [[Habitantes e Visitantes/Os Polters/Cristie Polter]] sabem de todos os segredos da família, incluindo a verdadeira paternidade de Olena, os negócios ilegais de [[Habitantes e Visitantes/Os Polters/Louis Polter]] e o caso de Liara com [[Habitantes e Visitantes/Os Polters/Empregados/Glauber]] .
 ## Interpretação Infantil
 As gêmeas enxergam os segredos como partes de "aventuras" e histórias emocionantes, sem entender completamente as implicações dos eventos.

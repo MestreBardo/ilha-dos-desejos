@@ -10,13 +10,13 @@ A ilha é repleta de histórias à espera de serem desvendadas. Coisas se perdem
 # As Sub-histórias
 
 ## Em Progresso
-- [[Sub-histórias/Em Progresso/Chuva de moedas]]
-- [[Sub-histórias/Em Progresso/O mistério da caixa de música]]
-- [[Sub-histórias/Em Progresso/O rei dos ratos]]
-- [[Sub-histórias/Em Progresso/O lâmina negra]]
-- [[Sub-histórias/Em Progresso/Uma porta sob o barril]]
-- [[Sub-histórias/Em Progresso/Ribbit!]]
-- [[Sub-histórias/Em Progresso/As ruínas de um homem elegante]]
+- [[Sub-histórias/Em Progresso/Chuva de moedas/Chuva de moedas]]
+- [[Sub-histórias/Em Progresso/O mistério da caixa de música/O mistério da caixa de música]]
+- [[Sub-histórias/Em Progresso/O rei dos ratos/O rei dos ratos]]
+- [[Sub-histórias/Em Progresso/O lâmina negra/O lâmina negra]]
+- [[Sub-histórias/Em Progresso/Uma porta sob o barril/Uma porta sob o barril]]
+- [[Sub-histórias/Em Progresso/Ribbit!/Ribbit!]]
+- [[Sub-histórias/Em Progresso/As ruínas de um homem elegante/As ruínas de um homem elegante]]
 ## Concluídas
 - [[Sub-histórias/Concluídas/Onde está o prato principal/Onde está o prato principal]]
 - [[Sub-histórias/Concluídas/Ratos no barril/Ratos no barril]]

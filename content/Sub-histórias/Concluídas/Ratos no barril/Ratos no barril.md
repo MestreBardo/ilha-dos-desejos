@@ -14,4 +14,4 @@
 # Documentos da aventura
 - [[Sub-histórias/Concluídas/Ratos no barril/Documentos da aventura/Poema sobre o Rei dos Ratos]]
 # Corrente de Missões
-- **Próxima:** [[Sub-histórias/Em Progresso/O rei dos ratos]]
+- **Próxima:** [[Sub-histórias/Em Progresso/O rei dos ratos/O rei dos ratos]]

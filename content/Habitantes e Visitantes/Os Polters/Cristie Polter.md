@@ -2,8 +2,6 @@
 {"publish":true,"title":"Cristie Polter","created":"2025-07-16T16:05:42.402+01:00","modified":"2025-07-16T16:29:43.347+01:00","cssclasses":""}
 ---
 
-
-
 - **Idade**: 8 anos
 - **Raça**: Humano
 - **Gênero**: Feminina

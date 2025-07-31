@@ -2,8 +2,6 @@
 {"publish":true,"title":"Elren Polter","created":"2025-07-16T16:05:44.473+01:00","modified":"2025-07-16T16:25:44.799+01:00","cssclasses":""}
 ---
 
-
-
 - **Idade**: 26 anos
 - **Raça**: Humano
 - **Gênero**: Maculino
