@@ -5,3 +5,6 @@
 _Uma carta escrita pelo fornecedor para seu amigo Androse, pedindo ajuda para abrir uma das caixas encontradas no naufrágio._
 # Conteúdo da Carta:
 _"Androse, achei umas caixa num navio quebrado na praia. Uma delas tá com uns deseinho na tampa, parace diferenti. Acho que tem coisa boa dentro. Vem me ajuda com isso. Traz o Tedrin tambem, vai que prescisa de força."_
+
+---
+**Adquirido na aventura:** [[Sub-histórias/Concluídas/Onde está o prato principal/Onde está o prato principal]]

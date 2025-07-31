@@ -3,6 +3,7 @@
 ---
 
 
+
 > No coração de Esperanza, o movimento do dia segue comum. Feirantes chamam por fregueses, crianças correm entre as barracas, e o som de passos ecoa pelas pedras da praça. Tudo parece rotineiro — até que um homem de manto escuro surge entre a multidão.
 > 
 > Com a mão na empunhadura de uma espada longa e olhar coberto por uma máscara, ele aponta diretamente para o grupo e grita:

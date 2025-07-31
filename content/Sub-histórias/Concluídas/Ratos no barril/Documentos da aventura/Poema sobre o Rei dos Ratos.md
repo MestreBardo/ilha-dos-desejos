@@ -36,3 +36,6 @@ com horror profundo,
 Do homem que tentou tudo possuir.
 Pois quem troca o que é humano por sombras,
 Nos túneis será rei... até ruir._
+
+---
+**Adquirido na aventura:** [[Sub-histórias/Concluídas/Ratos no barril/Ratos no barril]]

@@ -2,6 +2,7 @@
 {"publish":true,"title":"Segredos escondidos no barril","created":"2025-07-30T14:37:08.221+01:00","modified":"2025-07-30T14:43:36.869+01:00","cssclasses":""}
 ---
 
+
 Após derrotarem os ratos, o grupo decidiu investigar a origem do problema antes de considerar o local seguro. Durante a busca, encontraram duas pistas marcantes.
 
 A primeira foi um pergaminho com um poema sombrio que descrevia uma figura mesquinha, com traços de rato, que terminou isolada em sua mansão, cercada apenas por roedores. As palavras evocavam uma sensação de inquietação e mistério.

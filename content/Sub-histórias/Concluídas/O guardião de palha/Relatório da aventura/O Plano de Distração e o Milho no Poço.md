@@ -2,6 +2,7 @@
 {"publish":true,"title":"O Plano de Distração e o Milho no Poço","created":"2025-07-30T12:03:21.213+01:00","modified":"2025-07-30T12:29:10.818+01:00","cssclasses":""}
 ---
 
+
 Com [[O Grupo/Maximilian Vanben\|Maximilian]] agora curado o suficiente para caminhar, o grupo se reuniu próximo à casa. Os fragmentos do que haviam visto, ouvido e descoberto até então apontavam para uma verdade perturbadora: **havia alguém preso dentro do silo**, provavelmente sob o controle — ou custódia — do guardião.
 
 Mas não poderiam simplesmente invadir o local novamente. A criatura já havia demonstrado **consciência, regras e vigilância constante**. Era preciso **distrair o guardião**, mesmo que por poucos minutos, para permitir um resgate rápido.

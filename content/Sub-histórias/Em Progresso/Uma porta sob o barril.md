@@ -3,6 +3,7 @@
 ---
 
 
+
 > Atrás de uma ilusão mágica na cozinha subterrânea do Barril, uma porta ornamentada com símbolos incompreensíveis desafia qualquer tentativa de abertura. A estrutura de origem misteriosa permanece selada, aguardando por aqueles determinados o suficiente para decifrar seus segredos ancestrais.
 # Relatório da Aventura
 ## Arquitetura do Impossível

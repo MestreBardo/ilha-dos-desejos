@@ -2,6 +2,7 @@
 {"publish":true,"title":"O Silo e o Encontro Interrompido","created":"2025-07-30T12:02:25.459+01:00","modified":"2025-07-30T12:28:22.637+01:00","cssclasses":""}
 ---
 
+
 Assim que [[O Grupo/Buck]] e [[O Grupo/Brisingr]] abriram a porta do silo, os **grãos deformados** começaram a escorrer rapidamente, derramando-se pelo chão em ondas barulhentas e densas. O cheiro era forte, enjoativo, e algo claramente estava errado com aquele milho.
 
 No entanto, **não houve tempo para investigar**.

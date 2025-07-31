@@ -2,6 +2,7 @@
 {"publish":true,"title":"Segredos no silêncio da praia","created":"2025-07-30T14:25:38.664+01:00","modified":"2025-07-30T14:32:38.033+01:00","cssclasses":""}
 ---
 
+
 Após derrotarem os zumbis, o grupo voltou sua atenção para a investigação da casa de praia, determinada a desvendar os eventos trágicos que levaram àquela cena macabra. [[O Grupo/Maximilian Vanben\|Maximilian]], gravemente ferido, foi deixado em segurança próximo à entrada enquanto os demais exploravam o local em busca de respostas.
 
 A casa apresentava um ar de abandono, com móveis revirados, sinais de luta e marcas de garras espalhadas pelas paredes e chão. Em um dos cômodos principais, os aventureiros encontraram uma pilha de caixas. Uma delas destacava-se por estar com a tampa aberta, exibindo um símbolo mágico na parte interna. O desenho, parcialmente desgastado, parecia ser um lacre, e a energia residual que ainda emanava revelou-se a origem da maldição que transformara os moradores em zumbis.

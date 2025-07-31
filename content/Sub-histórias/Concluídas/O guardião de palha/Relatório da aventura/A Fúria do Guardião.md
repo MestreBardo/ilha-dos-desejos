@@ -2,6 +2,7 @@
 {"publish":true,"title":"A Fúria do Guardião","created":"2025-07-30T12:04:38.573+01:00","modified":"2025-07-30T12:29:56.294+01:00","cssclasses":""}
 ---
 
+
 Com a garota resgatada e o silêncio quebrado, o grupo acreditava por um instante ter vencido — até que o **espantalho guardião** se virou com brutalidade, os olhos ardendo em **ódio esverdeado**.
 
 > “Vocês… fazem parte do Exército dos Corvos. Vieram destruir os milhos. Eu fui criado para impedir isso.”

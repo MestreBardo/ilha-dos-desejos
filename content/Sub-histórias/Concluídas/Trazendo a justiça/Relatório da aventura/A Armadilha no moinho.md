@@ -2,6 +2,7 @@
 {"publish":true,"title":"A Armadilha no moinho","created":"2025-07-30T14:56:21.752+01:00","modified":"2025-07-30T15:01:38.810+01:00","cssclasses":""}
 ---
 
+
 Seguindo os rumores, o grupo avançou até o velho moinho. Por precaução, Buck ordenou que Lininha inspecionasse o interior primeiro. A habilidade dela em mover-se em silêncio revelou o essencial: passos recentes no segundo andar. Antes que pudesse avisar o grupo, porém, um mecanismo enferrujado disparou – a porta principal trancou-se com um baque.
 
 Lorwendir, impaciente, escalou as paredes externas do moinho enquanto os outros tentavam arrombar a porta. No topo, encontrou Ralfian subindo em direção ao telhado. A luta foi rápida e brutal: socos, agarramentos e um golpe errado fizeram ambos atravessarem a parede de madeira podre, despencando no chão duro lá embaixo.

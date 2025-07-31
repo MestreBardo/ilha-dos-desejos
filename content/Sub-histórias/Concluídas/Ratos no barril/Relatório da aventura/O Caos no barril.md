@@ -2,6 +2,7 @@
 {"publish":true,"title":"O Caos no barril","created":"2025-07-30T14:35:10.154+01:00","modified":"2025-07-30T14:42:21.217+01:00","cssclasses":""}
 ---
 
+
 Ao adentrarem o Barril, o grupo foi imediatamente confrontado por um cenário de completo caos. Mesas e cadeiras estavam reviradas, pedaços de comida espalhados pelo chão e marcas de destruição por toda parte. O local, que outrora deveria ser um refúgio para marinheiros e habitantes da ilha, parecia ter se tornado o centro de uma calamidade.
 
 O maior problema, no entanto, revelou-se logo: ratos de tamanhos anormais haviam tomado conta da taverna. Os roedores gigantes moviam-se com ferocidade, atacando tudo ao seu redor. Sem hesitar, o grupo engajou-se em uma batalha feroz, lutando para conter a infestação.

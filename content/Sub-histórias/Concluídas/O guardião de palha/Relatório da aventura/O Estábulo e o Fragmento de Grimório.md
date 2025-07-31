@@ -2,6 +2,7 @@
 {"publish":true,"title":"O Estábulo e o Fragmento de Grimório","created":"2025-07-30T11:55:45.427+01:00","modified":"2025-07-30T12:22:55.742+01:00","cssclasses":""}
 ---
 
+
 Ao adentrarem os limites da propriedade, o grupo percebeu de imediato que algo estava profundamente errado. O **milharal**, que antes deveria exalar vida, agora parecia **pervertido por uma presença sobrenatural**. As hastes se moviam de forma quase consciente, e uma **aura esverdeada vibrava no ar**, cobrindo o campo como um manto bruxuleante.
 
 Decididos a seguir pela **trilha de terra que levava até a casa do fazendeiro**, os aventureiros avançaram com cautela. No caminho, encontraram um **estábulo modesto**, isolado e envolto em silêncio denso.

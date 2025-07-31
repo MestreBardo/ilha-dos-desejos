@@ -3,6 +3,7 @@
 ---
 
 
+
 > Enquanto buscavam maneiras de ganhar dinheiro, o grupo foi abordado por [[Ambrosius Megalos]], o taverneiro e proprietário do [[O Apreciador de Vinhos\|Apreciador de vinhos]]. Sempre atento às oportunidades, ele sugeriu que poderiam ajudá-lo a investigar um problema recente com o fornecimento de peixes frescos, uma tarefa que poderia render uma boa recompensa.
 # Relatório da Aventura
 - [[Sub-histórias/Concluídas/Onde está o prato principal/Relatório da aventura/O Combate na casa de praia]]

@@ -3,6 +3,7 @@
 ---
 
 
+
 >_"O chamado para a aventura está feito. Basta ouvi-lo."_
 
 A ilha é repleta de histórias à espera de serem desvendadas. Coisas se perdem, coisas são encontradas, e algumas até criam vida. Pessoas arrumam problemas, são enganadas ou simplesmente enganam outras. O que realmente importa é que há muitas possibilidades: ser uma boa pessoa, ou apenas ganhar uns trocados enquanto resolve problemas.
@@ -19,7 +20,7 @@ A ilha é repleta de histórias à espera de serem desvendadas. Coisas se perdem
 ## Concluídas
 - [[Sub-histórias/Concluídas/Onde está o prato principal/Onde está o prato principal]]
 - [[Sub-histórias/Concluídas/Ratos no barril/Ratos no barril]]
-- [[Sub-histórias/Concluídas/Um jantar diferente]]
+- [[Sub-histórias/Concluídas/Um jantar diferente/Um jantar diferente]]
 - [[Sub-histórias/Concluídas/Noiz precisa de ajuda/Noiz precisa de ajuda]]
 - [[Sub-histórias/Concluídas/Trazendo a justiça/Trazendo a justiça]]
 - [[Sub-histórias/Concluídas/Um novo fornecedor/Um novo fornecedor]]

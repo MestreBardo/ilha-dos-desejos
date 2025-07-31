@@ -2,6 +2,7 @@
 {"publish":true,"title":"A Presença do Guardião","created":"2025-07-30T11:59:31.947+01:00","modified":"2025-07-30T12:27:39.280+01:00","cssclasses":""}
 ---
 
+
 Enquanto [[O Grupo/Buck]] e [[O Grupo/Brisingr]] investigavam a origem do som vindo do silo, [[O Grupo/Maximilian Vanben\|Maximilian]] ainda se recuperava lentamente, sentado no banco diante da casa. Ao seu lado, [[O Grupo/Lorwendir Sil'var\|Lorwendir]] mantinha-se atento, olhos varrendo o horizonte em busca de qualquer ameaça.
 
 Foi então que **algo se aproximou em silêncio**.

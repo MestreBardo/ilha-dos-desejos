@@ -3,6 +3,7 @@
 ---
 
 
+
 ![[imagem.webp]]
 - **Idade**: 30 anos
 - **Raça**: Humano

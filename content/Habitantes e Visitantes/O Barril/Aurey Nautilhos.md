@@ -3,6 +3,7 @@
 ---
 
 
+
 ![[Imagens/Pessoas/O Barril/Aurey Nautilhos.webp|200]]
 - **Idade**: 36 anos
 - **Raça**: Humano
