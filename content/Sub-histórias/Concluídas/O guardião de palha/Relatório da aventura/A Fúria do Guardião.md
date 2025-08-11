@@ -4,6 +4,7 @@
 
 
 
+
 Com a garota resgatada e o silêncio quebrado, o grupo acreditava por um instante ter vencido — até que o **espantalho guardião** se virou com brutalidade, os olhos ardendo em **ódio esverdeado**.
 
 > “Vocês… fazem parte do Exército dos Corvos. Vieram destruir os milhos. Eu fui criado para impedir isso.”

@@ -4,6 +4,7 @@
 
 
 
+
 A busca inicial do grupo por [[Ralfian]] começou com uma investigação pelas ruas de Esperanza. O grupo vasculhou diversos pontos movimentados da cidade, mas suas perguntas e tentativas de descobrir informações relevantes acabaram sendo infrutíferas.
 
 ---

@@ -3,6 +3,7 @@
 ---
 
 
+
 A segunda moeda foi recuperada durante a **Grande Corrida de Caracóis**, um evento popular da cidade. Após uma disputa acirrada, [[O Grupo/Lorwendir Sil'var\|Lorwendir]] e seu caracol venceram a corrida, conquistando a admiração dos espectadores e o reconhecimento de **Mirabel Lys**, uma das competidoras.
 
 Mirabel, impressionada com a vitória, ofereceu a moeda como um gesto de esportividade e respeito. Assim, o grupo conseguiu a segunda moeda, avançando em sua busca.

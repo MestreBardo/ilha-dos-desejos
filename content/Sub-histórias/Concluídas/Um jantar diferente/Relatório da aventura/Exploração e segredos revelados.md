@@ -3,6 +3,7 @@
 ---
 
 
+
 Com a mansão em completo estado de caos, o grupo começou a perceber a gravidade da situação. Estrondos ecoavam pelos corredores enquanto as paredes apresentavam rachaduras que pareciam avançar rapidamente, como se o tempo estivesse cobrando seu preço de forma acelerada. Cada instante trazia novas evidências de que a mansão estava se deteriorando, deixando claro que permanecer parado seria perigoso.
 
 Decididos a entender o que estava acontecendo e buscar uma solução, o grupo iniciou uma exploração minuciosa da mansão. Eles foram acompanhados por **Varnor Karzmirnov**, o filho mais jovem da família, cuja curiosidade parecia não ter limites. Com um entusiasmo inusitado, ele demonstrava um prazer evidente em bisbilhotar cada canto da mansão, ansioso por desenterrar segredos e revelações há muito enterrados.

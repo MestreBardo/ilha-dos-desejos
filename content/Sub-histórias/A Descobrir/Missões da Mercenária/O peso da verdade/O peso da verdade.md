@@ -3,4 +3,5 @@
 ---
 
 
+
 Com a verdade exposta, o grupo e Lívia seguem as pistas deixadas pelo sobrevivente até descobrirem que o **arquiteto do massacre** — o homem que contratou Lívia, forjou documentos e manipulou tudo — também está **na Ilha dos Desejos**, vivendo sob uma identidade falsa. A missão final leva o grupo até esse confronto definitivo, onde justiça, vingança e redenção colidem.

@@ -3,6 +3,7 @@
 ---
 
 
+
 _Páginas soltas de um diário muito antigo, com as bordas amareladas pelo tempo e a tinta desbotada em alguns trechos._
 # Conteúdo das Páginas:
 ## **Mar (海)**

@@ -4,6 +4,7 @@
 
 
 
+
 Após aceitar o chamado, o grupo partiu em direção à plantação isolada. Conforme se aproximavam do milharal, o ambiente começou a se transformar de forma sinistra. **Nuvens negras** se acumularam repentinamente no céu, enquanto **raios esverdeados** cortavam o horizonte. Uma **aura não natural**, tingida de um **verde espectral**, parecia envolver toda a região.
 
 Foi então que uma **voz invadiu suas mentes**, calma e imponente, como se brotasse do próprio ar:

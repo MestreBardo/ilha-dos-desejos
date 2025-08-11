@@ -3,6 +3,7 @@
 ---
 
 
+
 > Enquanto estavam no Barril, o grupo notou o quadro de ajudas próximo à entrada, onde moradores deixavam pedidos e anúncios. Entre os papéis afixados, um chamou a atenção: um pergaminho assinado por [[Aliana]], pedindo ajuda para encontrar uma "caixa de música especial" perdida na feira da cidade.
 > 
 > A mensagem destacava a importância sentimental do objeto e solicitava que, caso encontrado, fosse devolvido em sua casa, localizada perto do portão da parte rica da cidade. Havia também dois avisos intrigantes: "Não abra a caixa" e "Tem recompensa."

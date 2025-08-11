@@ -2,6 +2,7 @@
 {"publish":true,"title":"O forcado do guardião","created":"2025-08-01T14:56:19.969+01:00","modified":"2025-08-01T15:12:37.966+01:00","cssclasses":""}
 ---
 
+
 Três dentes enferrujados em um cabo longo, com marcas de palha amarradas e símbolos esculpidos a unha por dedos que jamais deveriam ter vida. No cabo, uma inscrição infantil e irregular diz: "A PAZ FOI ASSINADA. OS MILHOS AGRADECEM."
 
 Este forcado pertencia ao **Guardião**, um espantalho animado por um feitiço protetor que falhou. Em apenas dois dias, a magia criou uma consciência própria — confusa, protetora, e profundamente paranoica. Ele acreditava estar em guerra com o “Exército dos Corvos”, atacando qualquer um que se aproximasse dos campos.

@@ -3,6 +3,7 @@
 ---
 
 
+
 _Uma carta selada com um pequeno lacre de cera marcado pelas iniciais "VT". O pergaminho é de boa qualidade, mas a escrita tem um tom urgente e firme._
 ### Conteúdo:
 _**Ao estimado Louis Polter,**_

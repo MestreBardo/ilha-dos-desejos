@@ -5,6 +5,7 @@
 
 
 
+
 > No [[O Apreciador de Vinho\|Apreciador de Vinho]], um pergaminho grosseiro e marcado por uma mão vermelha chamava atenção no quadro de ajuda. A mensagem, escrita de forma desleixada e repleta de erros, pedia que alguém procurasse por [[Wanta]] para obter mais informações sobre o desaparecimento de um amigo.
 > 
 > O bilhete transmitia urgência e confusão, mas deixava claro que aqueles que aceitassem a tarefa deveriam encontrar Wanta antes de tudo.

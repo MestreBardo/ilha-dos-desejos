@@ -4,6 +4,7 @@
 
 
 
+
 Enquanto [[O Grupo/Buck]] e [[O Grupo/Brisingr]] investigavam a origem do som vindo do silo, [[O Grupo/Maximilian Vanben\|Maximilian]] ainda se recuperava lentamente, sentado no banco diante da casa. Ao seu lado, [[O Grupo/Lorwendir Sil'var\|Lorwendir]] mantinha-se atento, olhos varrendo o horizonte em busca de qualquer ameaça.
 
 Foi então que **algo se aproximou em silêncio**.

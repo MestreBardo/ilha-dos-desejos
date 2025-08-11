@@ -3,6 +3,7 @@
 ---
 
 
+
 Com os convidados já acomodados e o jantar prestes a começar, a atmosfera na sala de jantar era de expectativa e requinte. No entanto, para [[O Grupo/Buck]], um dos serviçais improvisados, a pressão do evento já começava a pesar. A constante necessidade de perfeição e o rigoroso protocolo exigido no serviço testavam seus limites, e cada pequeno erro cometido por seus companheiros só contribuía para agravar sua frustração.
 
 Desde os primeiros minutos, pequenos deslizes começaram a acontecer. Um gesto mal interpretado aqui, uma troca de copos ali, e [[O Grupo/Buck]] sentia como se o peso do jantar inteiro estivesse em seus ombros. Seus esforços para manter o padrão exigido por Armelia eram prejudicados pela aparente falta de colaboração de alguns, ou pelas gafes inesperadas que insistiam em surgir.

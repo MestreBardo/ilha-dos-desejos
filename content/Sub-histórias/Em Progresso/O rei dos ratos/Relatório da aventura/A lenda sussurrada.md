@@ -3,6 +3,7 @@
 ---
 
 
+
 A missão no [[O Barril\|Barril]] terminou com mais do que apenas roedores mortos espalhados pelo chão. Entre os destroços e a sujeira, o grupo descobriu um pergaminho amarelado, suas bordas roídas — ironicamente apropriado — contendo versos sobre um possível Rei dos Ratos.
 
 A investigação subsequente revelou que os versos não eram invenção de algum bêbado criativo. Moradores mais velhos da região reconheceram fragmentos da história, sussurrando que a lenda tinha raízes na Vila Costeira.

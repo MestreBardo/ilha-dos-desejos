@@ -3,4 +3,5 @@
 ---
 
 
+
 O grupo confronta o misterioso homem que está por trás dos ataques: ele é um **sobrevivente de um massacre** cometido anos atrás por engano — e **Lívia foi a responsável direta pelas mortes**. Durante o confronto, ele expõe a verdade sobre o passado dela, forçando a personagem a encarar o peso de suas ações. Ele não está envolvido com o verdadeiro arquiteto do massacre — apenas busca vingança.

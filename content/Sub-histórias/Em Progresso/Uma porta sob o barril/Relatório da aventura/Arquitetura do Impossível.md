@@ -3,6 +3,7 @@
 ---
 
 
+
 A batalha contra os ratos gigantes havia conduzido o grupo até a cozinha subterrânea do [[O Barril\|Barril]], um espaço que o proprietário conhecia como a palma da mão. Ou pelo menos pensava conhecer.
 
 Foi [[O Grupo/Buck\|Buck]] quem primeiro sentiu a anomalia — uma pulsação mágica emanando de uma das paredes da cozinha. Suas percepções arcanas detectaram algo oculto, como se a própria realidade estivesse sendo dobrada naquele ponto específico. Quando a ilusão foi desfeita, revelou-se algo que deveria ser impossível: uma porta incrustada na parede de pedra.

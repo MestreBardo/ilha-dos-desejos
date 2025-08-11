@@ -3,6 +3,7 @@
 ---
 
 
+
 _Um pergaminho amarelado com bordas gastas, preso por um lacre simples com o brasão da família Polter. O documento enumera os antigos funcionários da mansão que foram dispensados recentemente, junto com breves anotações sobre os motivos das demissões. Embora o tom seja formal, é possível perceber um leve descaso nos comentários, sugerindo justificativas apressadas ou vagas. A lista reflete o ambiente de tensão na mansão antes do evento, e cada nome parece carregar um pouco da história de desordem e desconfiança entre os membros da casa._
 
 ---

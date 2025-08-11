@@ -3,6 +3,7 @@
 ---
 
 
+
 Guiados por uma pista inusitada deixada pelas gêmeas Polter, conhecidas por desenhar aventuras e mapas da mansão com sua criatividade ilimitada, o grupo fez uma descoberta intrigante. Entre rabiscos e representações detalhadas dos corredores e salas, um desenho chamou a atenção: um caminho secreto no subsolo da mansão, levando a uma sala desconhecida. Convencidos de que essa poderia ser a origem do problema, o grupo seguiu para investigar.
 
 Descendo por uma escada oculta e empurrando uma parede disfarçada, o grupo encontrou uma sala que exalava uma aura estranha e opressiva. No centro da sala, havia um baú comum, desgastado pelo tempo, mas que parecia pulsar levemente, como se algo dentro dele estivesse vivo. A tensão aumentou enquanto o grupo se aproximava, e ao abrir o baú, um artefato desconhecido começou a flutuar no ar, emitindo um brilho instável. Não era algo maligno, mas sua instabilidade evidenciava o perigo que representava para todos.

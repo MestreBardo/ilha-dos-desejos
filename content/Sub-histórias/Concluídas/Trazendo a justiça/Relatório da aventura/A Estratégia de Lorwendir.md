@@ -4,6 +4,7 @@
 
 
 
+
 Diante da falta de progresso, [[O Grupo/Lorwendir Sil'var\|Lorwendir]] teve uma ideia: ele se dirigiu ao **Barril**, uma famosa taverna local, e ofereceu bebidas para todos os presentes, acreditando que isso poderia soltar a língua dos frequentadores e trazer informações úteis. Apesar da generosidade, as conversas geraram apenas rumores dispersos e nenhuma informação concreta que ajudasse a localizar o traidor.
 
 ---

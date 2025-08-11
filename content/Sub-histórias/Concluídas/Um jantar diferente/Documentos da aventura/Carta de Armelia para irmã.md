@@ -3,6 +3,7 @@
 ---
 
 
+
 _Uma carta fechada, lacrada com cera vermelha que apresenta um brasão delicado em relevo. O papel de alta qualidade é decorado com bordas florais, e a leve fragrância de lavanda ainda persiste, sugerindo cuidado em sua preparação. A carta está impecavelmente dobrada, sem sinais de ter sido manipulada desde que foi escrita._
 # Conteúdo:
 **Minha querida irmã,**

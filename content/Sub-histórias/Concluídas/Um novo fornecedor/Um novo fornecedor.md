@@ -3,6 +3,7 @@
 ---
 
 
+
 > Após resolverem o problema do fornecimento de peixes, envolvendo a maldição zumbi que levou à morte de [[Claurei]], [[Ambrosius Megalos]] encarregou o grupo de uma nova tarefa. Ele precisava que eles localizassem o irmão de [[Claurei]], que poderia assumir o lugar do falecido como fornecedor de peixes e garantir a continuidade das entregas.
 # Relatório da aventura
 - [[Sub-histórias/Concluídas/Um novo fornecedor/Relatório da aventura/A busca pelo irmão de Claurei]]

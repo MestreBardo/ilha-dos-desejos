@@ -3,6 +3,7 @@
 ---
 
 
+
 Os convidados começaram a chegar, anunciados com todo o protocolo esperado em um evento de tamanha importância. A primeira a adentrar a Mansão Polter foi a prestigiada **Família Karzmirnov**, liderada pelo patriarca Thargrim e pela matriarca Ysdrina, acompanhados de seus filhos, Durak, [[Habitantes e Visitantes/Os Karzmirnov/Rurik Karzmirnov\|Rurik]] e [[Habitantes e Visitantes/Os Karzmirnov/Varnor Karzmirnov\|Varnor]]. A postura da família demonstrava um equilíbrio entre formalidade e genuíno respeito, não apenas pelo local, mas também pelos empregados que os recepcionaram com cortesia.
 
 Os Karzmirnov foram conduzidos à sala de jantar, onde a atmosfera de elegância já estava estabelecida. Durante todo o trajeto, mostraram-se cordiais e atentos, com comentários respeitosos que traziam uma leveza inesperada ao ambiente. Seus gestos e palavras refletiam não apenas seu status, mas também sua consideração pelas pessoas ao redor.

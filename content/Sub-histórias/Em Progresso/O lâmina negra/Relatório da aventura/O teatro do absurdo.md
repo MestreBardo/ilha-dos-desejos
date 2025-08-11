@@ -3,6 +3,7 @@
 ---
 
 
+
 O encontro com o autoproclamado "Lâmina Negra" foi, para dizer o mínimo, desconcertante. O homem surgiu brandindo ameaças e uma postura intimidadora, mas sua investida durou exatos três segundos — o tempo necessário para [[O Grupo/Lorwendir Sil'var\|Lorwendir]] aplicar um chute certeiro que o enviou ao chão como um saco de batatas mal amarrado.
 
 Enquanto o grupo investigava os pertences do inconsciente, a descoberta mais reveladora veio na forma de sua "temível" espada: um pedaço de madeira pintada de preto, com detalhes rabiscados a carvão que pretendiam imitar metal. A farsa era tão evidente que chegava a ser constrangedora.

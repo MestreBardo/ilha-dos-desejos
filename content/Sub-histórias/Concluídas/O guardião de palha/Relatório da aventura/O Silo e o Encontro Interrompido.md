@@ -4,6 +4,7 @@
 
 
 
+
 Assim que [[O Grupo/Buck]] e [[O Grupo/Brisingr]] abriram a porta do silo, os **grãos deformados** começaram a escorrer rapidamente, derramando-se pelo chão em ondas barulhentas e densas. O cheiro era forte, enjoativo, e algo claramente estava errado com aquele milho.
 
 No entanto, **não houve tempo para investigar**.

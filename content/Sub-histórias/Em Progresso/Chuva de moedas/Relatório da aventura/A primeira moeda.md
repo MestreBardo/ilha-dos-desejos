@@ -3,6 +3,7 @@
 ---
 
 
+
 Enquanto se alimentavam na taverna, o grupo foi informado por [[Nordrer Sekidrolov \|Nordrer]], o dono do local, que alguém havia pago uma conta com uma moeda estranha. Ele explicou que, durante o movimento do expediente, não havia notado a moeda incomum misturada com as demais.
 
 Após verificar e confirmar que ainda estava com ela, [[Habitantes e Visitantes/A Taverna da esquerda/Nordrer Sekidrolov\|Nordrer]] aceitou trocá-la por uma moeda comum, permitindo que o grupo recuperasse a primeira das doze moedas perdidas.

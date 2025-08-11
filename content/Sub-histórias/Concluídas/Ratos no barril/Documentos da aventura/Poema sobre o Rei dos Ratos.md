@@ -3,6 +3,7 @@
 ---
 
 
+
 Um pedaço de papel amassado e envelhecido, encontrado em meio aos escombros do subsolo do Barril. O pergaminho apresenta manchas de umidade e marcas de mordidas nas bordas, como se tivesse sido parcialmente devorado pelos ratos. O texto está escrito em uma caligrafia tremida, com algumas palavras borradas, mas ainda legível o suficiente para contar uma história sombria.
 # Conteúdo:
 _Sob a sombra do chão esquecido,

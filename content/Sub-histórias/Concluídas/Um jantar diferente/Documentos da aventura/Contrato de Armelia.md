@@ -3,6 +3,7 @@
 ---
 
 
+
 _Um longo e detalhado contrato escrito em pergaminho de alta qualidade, com a assinatura do patriarca da família Polter no rodapé. O texto apresenta uma lista exaustiva de funções que Armelia deve desempenhar, abrangendo desde a limpeza e manutenção da mansão até o cuidado com o jardim e a organização de eventos. Há cláusulas vagas que permitem a inclusão de novas responsabilidades "a critério da família", reforçando o tom explorador do documento. Apesar de bem organizado, o contrato reflete a dinâmica desigual entre empregador e empregado, impondo muitas tarefas por uma remuneração modesta e benefícios limitados._
 
 ---

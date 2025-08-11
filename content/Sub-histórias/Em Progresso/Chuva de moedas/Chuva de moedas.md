@@ -3,6 +3,7 @@
 ---
 
 
+
 > No meio da cidade nobre, uma discussão acalorada chamava atenção. Marley Crawton, o patriarca da renomada família Crawton, gesticulava furiosamente enquanto repreendia seu neto Carlton, que ouvia em silêncio com a cabeça baixa.
 > 
 > _**“Doze moedas! Doze! Perdidas por toda a cidade! Você tem ideia do que isso significa para o nome dos Crawton?”**_
