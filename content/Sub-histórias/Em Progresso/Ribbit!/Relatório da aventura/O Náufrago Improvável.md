@@ -2,6 +2,7 @@
 {"publish":true,"title":"O Náufrago Improvável","created":"2025-07-31T23:11:35.099+01:00","modified":"2025-07-31T23:14:21.200+01:00","cssclasses":""}
 ---
 
+
 A resolução dos problemas na casa da praia trouxe uma descoberta peculiar que ninguém poderia ter previsto. Entre os destroços e objetos variados resgatados do mar, [[O Grupo/Lorwendir Sil'var\|Lorwendir]] encontrou uma caixa que guardava um ocupante completamente inesperado: um sapo.
 
 Mas este não era um anfíbio comum encontrado em qualquer charco. O pequeno animal se apresentou como [[Ribbit\|Capitão Ribbit]] e, com uma seriedade desconcertante para sua espécie, explicou estar em uma missão de extrema importância: localizar o General Crista, seu superior hierárquico.

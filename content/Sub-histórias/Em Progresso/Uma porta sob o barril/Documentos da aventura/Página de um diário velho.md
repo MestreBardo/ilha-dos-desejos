@@ -2,6 +2,7 @@
 {"publish":true,"title":"Página de um diário velho","created":"2025-07-31T23:19:17.675+01:00","modified":"2025-07-31T23:24:31.029+01:00","cssclasses":""}
 ---
 
+
 _Páginas soltas de um diário muito antigo, com as bordas amareladas pelo tempo e a tinta desbotada em alguns trechos._
 # Conteúdo das Páginas:
 ## **Mar (海)**

@@ -2,6 +2,7 @@
 {"publish":true,"title":"Carta de Armelia para irmã","created":"2025-07-31T22:06:40.246+01:00","modified":"2025-07-31T22:39:58.338+01:00","cssclasses":""}
 ---
 
+
 _Uma carta fechada, lacrada com cera vermelha que apresenta um brasão delicado em relevo. O papel de alta qualidade é decorado com bordas florais, e a leve fragrância de lavanda ainda persiste, sugerindo cuidado em sua preparação. A carta está impecavelmente dobrada, sem sinais de ter sido manipulada desde que foi escrita._
 # Conteúdo:
 **Minha querida irmã,**

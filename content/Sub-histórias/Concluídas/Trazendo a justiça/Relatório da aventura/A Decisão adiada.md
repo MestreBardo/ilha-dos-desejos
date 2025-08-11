@@ -3,6 +3,7 @@
 ---
 
 
+
 Após capturar Ralfian, o grupo permaneceu no moinho, aguardando ele recuperar a consciência. Quando despertou, Maximilian foi o mais incisivo: defendia a entrega imediata aos seguidores de Kermis, como exigia o contrato. Ralfian, porém, alertou que Laudren, líder dos seguidores, era extremista e mataria qualquer um que atrapalhasse sua "justiça", assim como fizera com um vilarejo inteiro.
 
 Sem consenso, o grupo decidiu levar Ralfian amarrado para a vila costeira.

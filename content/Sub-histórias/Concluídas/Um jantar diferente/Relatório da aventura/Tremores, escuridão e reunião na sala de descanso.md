@@ -2,6 +2,7 @@
 {"publish":true,"title":"Tremores, escuridão e reunião na sala de descanso","created":"2025-07-31T22:17:49.442+01:00","modified":"2025-07-31T22:32:04.284+01:00","cssclasses":""}
 ---
 
+
 O clima cuidadosamente mantido na Mansão Polter foi abruptamente interrompido por tremores súbitos que ecoaram por toda a estrutura. No início, os presentes tentaram ignorar o incômodo, mas os tremores rapidamente se intensificaram, acompanhados por um som metálico e inquietante enquanto portas e janelas se trancavam sozinhas, como se sob efeito de um feitiço. A situação tornou-se ainda mais desconcertante quando todas as fontes de luz começaram a apagar-se uma a uma. Lanternas, candelabros e até as velas mais simples foram engolidas pela escuridão, deixando o ambiente mergulhado em sombras profundas e inquietantes.
 
 O grupo, percebendo a gravidade do que acontecia, alertou a todos sobre um possível perigo iminente. Embora ansiosos, os convidados procuraram manter a calma, mas a crescente inquietação logo levou o patriarca da família Karzmirnov a tomar a frente. Com uma atitude firme, mas não alarmista, ele decidiu que sua família deveria deixar a sala de jantar para buscar um ambiente mais confortável e seguro. Ele, sua esposa e seus filhos foram acompanhados até a sala de descanso.

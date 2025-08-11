@@ -3,6 +3,7 @@
 ---
 
 
+
 Mesmo com a descoberta no estábulo, o grupo seguiu pela trilha, mantendo os olhos atentos a cada movimento ao redor. A **sensação de estar sendo observado** crescia a cada passo. O milharal parecia respirar em silêncio, como se algo — ou alguém — estivesse os vigiando de dentro das fileiras densas de folhas.
 
 Com os nervos à flor da pele e receio de uma emboscada, decidiram entrar na **casa do fazendeiro**, na esperança de encontrar alguma pista, pergaminho ou objeto que os ajudasse a lidar com o guardião enlouquecido. Vasculharam o interior em silêncio tenso — móveis revirados, poeira recente, janelas trincadas — mas **nenhuma resposta veio**.

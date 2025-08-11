@@ -3,6 +3,7 @@
 ---
 
 
+
 O grupo decidiu levar o caso à guarda local, esperando alguma ação contra os métodos brutais de Laudren. Na cidade costeira, porém, o responsável pela guarda recusou-se a se envolver. "Não mexo com os Seguidores de Kermis", disse ele, escrevendo uma queixa formal apenas para se livrar do grupo. Sugeriu que, se quisessem continuar, levassem o caso à sede da guarda em Esperança.
 
 Em Esperança, o grupo foi recebido por um oficial mais disposto a ouvir. Ele explicou que, sem provas concretas, a única forma de prosseguir seria coletar um depoimento direto de Laudren – algo que o grupo considerou suicídio.

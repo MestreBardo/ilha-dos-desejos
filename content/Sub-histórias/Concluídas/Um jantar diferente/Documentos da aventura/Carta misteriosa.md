@@ -2,6 +2,7 @@
 {"publish":true,"title":"Carta de Armelia para irmã","created":"2025-07-31T22:08:21.866+01:00","modified":"2025-07-31T22:40:17.248+01:00","cssclasses":""}
 ---
 
+
 _Uma carta selada com um pequeno lacre de cera marcado pelas iniciais "VT". O pergaminho é de boa qualidade, mas a escrita tem um tom urgente e firme._
 ### Conteúdo:
 _**Ao estimado Louis Polter,**_

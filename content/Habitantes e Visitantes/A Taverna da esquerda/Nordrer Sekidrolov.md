@@ -4,6 +4,7 @@
 
 
 
+
 ![[Imagens/Pessoas/Taverna da Esquerda/Nordrer Sekidrolov.webp|200]]
 - **Idade**: 108 anos
 - **Raça**: Anã

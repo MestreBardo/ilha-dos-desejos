@@ -4,6 +4,7 @@
 
 
 
+
 ![[Imagens/Pessoas/O Barril/Naruda Strohtrock.webp|200]]
 - **Idade**: 26 anos
 - **Raça**: Gnomo

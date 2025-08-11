@@ -4,6 +4,7 @@
 
 
 
+
 ![[imagem.webp]]
 - **Idade**: 35 anos
 - **Raça**: Gnomo

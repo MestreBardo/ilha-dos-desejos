@@ -2,6 +2,7 @@
 {"publish":true,"title":"O corredor trancado e as visões perturbadoras","created":"2025-07-31T22:17:17.921+01:00","modified":"2025-07-31T22:31:48.972+01:00","cssclasses":""}
 ---
 
+
 No meio do serviço, [[O Grupo/Maximilian Vanben\|Maximilian]] percebeu que algo estava errado. Ao atravessar o corredor entre a cozinha e a sala de jantar, todas as portas ao redor dele se trancaram de forma inexplicável. Ele estava preso, sem saída, enquanto o silêncio ao seu redor parecia se tornar cada vez mais pesado. Tentando desesperadamente abrir as portas, Maximilian sentiu a atmosfera mudar – algo estranho e inquietante estava acontecendo.
 
 No fundo do corredor, uma figura peculiar surgiu. Era um urso de pelugem dourada, com proporções humanas e um chapéu preto desalinhado. A criatura estava caída, mas seu corpo tremia de forma violenta, como se estivesse à beira de desmoronar. A cena bizarra se tornou ainda mais perturbadora quando Maximilian notou as palavras "Sou eu" surgirem nos quadros próximos, escritas como se fossem parte das pinturas.

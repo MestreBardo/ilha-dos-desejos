@@ -4,6 +4,7 @@
 
 
 
+
 ![[Imagens/Pessoas/Taverna da Esquerda/Nasnorra Sekidrolova.webp|200]]
 - **Idade:** 28 Anos
 - **Raça**: Anã

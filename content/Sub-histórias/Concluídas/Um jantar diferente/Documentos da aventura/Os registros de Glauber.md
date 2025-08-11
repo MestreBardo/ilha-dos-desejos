@@ -2,6 +2,7 @@
 {"publish":true,"title":"Os registros de Glauber","created":"2025-07-31T22:10:33.516+01:00","modified":"2025-07-31T22:41:33.041+01:00","cssclasses":""}
 ---
 
+
 _Um diário antigo, com a capa de couro já desgastada pelo tempo e bordas levemente descascadas. As iniciais "G.P." ainda estão visíveis na capa, mas o relevo está quase apagado. As páginas internas, amareladas e frágeis, estão preenchidas com uma caligrafia meticulosa, típica de alguém disciplinado e metódico. Apesar do cuidado aparente, o diário já não é usado há anos, e uma fina camada de poeira cobre sua superfície, como um eco do passado que foi deixado para trás._
 
 - **10 de Valenta, 1532:** _"Hoje, o destino pregou uma peça em meu coração. Liara me chamou para ajudá-la nos preparativos de um jantar. Algo banal, parte de minhas obrigações como mordomo da família Polter. Contudo, enquanto trabalhávamos lado a lado, algo aconteceu. Ela riu de algo que eu disse... uma risada verdadeira, que preencheu o vazio do salão. Não deveria pensar nisso como algo além de uma gentileza, mas a forma como ela me olhou... parecia ver algo em mim que ninguém mais enxerga. Passei o dia inteiro relembrando aquele momento. É errado, eu sei, mas a lembrança não me deixa em paz."_

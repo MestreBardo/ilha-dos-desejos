@@ -3,6 +3,7 @@
 ---
 
 
+
 > A porta do [[Apreciador de Vinhos]] se abre com força, chamando atenção de todos. Um **homem de roupas rurais**, coberto de poeira e com o rosto marcado pelo desespero, atravessa o salão aos tropeços — e desaba em prantos logo no centro da taverna.
 > 
 > Entre soluços, ele conta que sua plantação foi tomada por um **espantalho enlouquecido**. Diz que contratou uma maga para proteger os milhos com um encantamento de vigília, mas algo deu terrivelmente errado. Agora, a criatura ataca qualquer um que se aproxime, incluindo sua própria família.

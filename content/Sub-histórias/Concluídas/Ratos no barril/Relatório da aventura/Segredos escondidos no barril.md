@@ -3,6 +3,7 @@
 ---
 
 
+
 Após derrotarem os ratos, o grupo decidiu investigar a origem do problema antes de considerar o local seguro. Durante a busca, encontraram duas pistas marcantes.
 
 A primeira foi um pergaminho com um poema sombrio que descrevia uma figura mesquinha, com traços de rato, que terminou isolada em sua mansão, cercada apenas por roedores. As palavras evocavam uma sensação de inquietação e mistério.

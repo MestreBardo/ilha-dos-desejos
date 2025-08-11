@@ -3,6 +3,7 @@
 ---
 
 
+
 Enquanto Max se recuperava sob a guarda de [[O Grupo/Lorwendir Sil'var\|Lorwendir]], [[O Grupo/Buck]] e [[O Grupo/Brisingr]] seguiram com a investigação da fazenda, decididos a entender a origem da corrupção que tomava conta do lugar. A aura sobrenatural ainda persistia no ar, mas agora acompanhada de um **som constante**, quase como um sussurro abafado — algo que ambos vinham percebendo desde a chegada, mas que até então parecia distante.
 
 Primeiro, decidiram investigar o **moinho**, uma construção rústica ao lado dos campos. Vasculharam o interior, inspecionaram engrenagens antigas e sacos de grãos, mas **não encontraram nada além de poeira e silêncio**. O lugar estava completamente vazio.

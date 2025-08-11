@@ -2,6 +2,7 @@
 {"publish":true,"title":"A chegada à mansão Polter","created":"2025-07-31T22:16:04.192+01:00","modified":"2025-07-31T22:30:48.873+01:00","cssclasses":""}
 ---
 
+
 O grupo chegou à elegante Mansão Polter acompanhado de [[Habitantes e Visitantes/A Taverna da esquerda/Nasnorra Sekidrolova\|Nasnorra]] , trajando roupas apropriadas para suas funções como serviçais no aguardado jantar. A fachada da mansão refletia a sofisticação e o prestígio da família Polter. Glauber, o mordomo, recebeu-os na entrada com sua formalidade característica, conduzindo-os para dentro.
 
 Uma vez no interior, Glauber apresentou os membros da criadagem responsáveis pela organização do evento. A **Chefe dos Empregados, [[Habitantes e Visitantes/Os Polters/Empregados/Armelia]]**, assumiu a responsabilidade de instruí-los sobre os procedimentos da noite. Já [[Habitantes e Visitantes/A Taverna da esquerda/Nasnorra Sekidrolova\|Nasnorra]] foi direcionada para a cozinha, onde auxiliaria nos preparativos.

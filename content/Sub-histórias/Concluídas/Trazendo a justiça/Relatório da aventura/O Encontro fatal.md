@@ -3,6 +3,7 @@
 ---
 
 
+
 O grupo teve azar. Ao se aproximar da cidade costeira, deparou-se com os Seguidores de Kermis, liderados por Laudren. Ainda sem decisão sobre o que fazer com Ralfian, tentaram enganá-los: usando uma magia de disfarce, transformaram Ralfian na aparência de outro procurado local.
 
 O plano falhou. Os seguidores já haviam encontrado o corpo do verdadeiro procurado na floresta. Ralfian, percebendo que não havia escapatória, decidiu se entregar para poupar o grupo.

@@ -4,6 +4,7 @@
 
 
 
+
 ![[imagem.webp]]
 - **Idade**: 32 anos
 - **Raça**: Humano-Elfo

@@ -3,6 +3,7 @@
 ---
 
 
+
 Uma página envelhecida, com bordas gastas e ligeiramente manchadas por tinta e outros vestígios de experimentos práticos. A caligrafia é surpreendentemente elegante e bem trabalhada, mas apresenta sinais de alterações e revisões frequentes. As palavras foram claramente reescritas várias vezes, em algumas partes quase sobrepostas, indicando uma tentativa de aperfeiçoar o feitiço ou corrigir erros ao longo do tempo. Pequenos rabiscos e símbolos improvisados nos cantos sugerem um estilo de trabalho mais experimental do que acadêmico.
 # Análise:
 A página contém várias evidências de um trabalho apressado e intuitivo: trechos de runas trocadas, como “vigília eterna” no lugar de “proteção temporária”, e instruções ambíguas, como “reagir a tudo que se move”, indicam um descuido que compromete a funcionalidade do feitiço. Notas nas margens, escritas em uma caligrafia menor e mais descontraída, revelam pensamentos imediatos e pragmáticos:

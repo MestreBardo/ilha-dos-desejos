@@ -4,6 +4,7 @@
 
 
 
+
 >_"O chamado para a aventura está feito. Basta ouvi-lo."_
 
 A ilha é repleta de histórias à espera de serem desvendadas. Coisas se perdem, coisas são encontradas, e algumas até criam vida. Pessoas arrumam problemas, são enganadas ou simplesmente enganam outras. O que realmente importa é que há muitas possibilidades: ser uma boa pessoa, ou apenas ganhar uns trocados enquanto resolve problemas.

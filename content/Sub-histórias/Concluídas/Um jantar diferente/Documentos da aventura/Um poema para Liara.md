@@ -2,6 +2,7 @@
 {"publish":true,"title":"Um poema para Liara","created":"2025-07-31T22:11:11.876+01:00","modified":"2025-07-31T22:41:59.999+01:00","cssclasses":""}
 ---
 
+
 _Escondido entre as páginas de um livro antigo, este poema foi cuidadosamente dobrado. O papel, amarelado pelo tempo, exala um leve aroma de flores secas._
 ### Conteúdo:
 _**Liara, Meu Sol**_

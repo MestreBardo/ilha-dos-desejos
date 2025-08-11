@@ -2,6 +2,7 @@
 {"publish":true,"title":"Registros de vendas","created":"2025-07-31T22:10:55.184+01:00","modified":"2025-07-31T22:41:47.571+01:00","cssclasses":""}
 ---
 
+
 - **5 de Inira, 1552 - Compra: Caixa de corais brilhantes** _"Prometeram que eram corais mágicos. Depois descobri que eram decorativos e não valiam metade do preço. Malditos trapaceiros!"_
 - **12 de Inira, 1552 - Venda: Perfumes de flores-do-amanhecer** _"Um grande acerto! Os perfumes esgotaram rapidamente. Parece que eu sempre sei o que o mercado deseja."_
 - **22 de Fortura, 1552 - Compra Fibras de seda dourada** _"Disseram que era a melhor seda da região, mas veio cheia de nós. Culpa daquele fornecedor incompetente!"_
