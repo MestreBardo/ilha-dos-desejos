@@ -2,10 +2,6 @@
 {"publish":true,"title":"Grande Martha","created":"2025-07-10T00:05:06.803+01:00","modified":"2025-07-16T00:01:43.257+01:00","cssclasses":""}
 ---
 
-
-
-
-
 ![[Imagens/Pessoas/O Barril/Grande Marta.webp|200]]
 - **Idade**: 45 anos
 - **Raça**: Humana

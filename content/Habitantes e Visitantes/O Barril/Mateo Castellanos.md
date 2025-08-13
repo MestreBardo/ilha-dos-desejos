@@ -2,10 +2,6 @@
 {"publish":true,"title":"Mateo Castellanos","created":"2025-07-10T00:04:27.289+01:00","modified":"2025-07-16T00:17:34.544+01:00","cssclasses":""}
 ---
 
-
-
-
-
 ![[Imagens/Pessoas/O Barril/Mateo Castellanos.webp|200]]
 - **Idade**: 38 anos
 - **Raça**: Humano

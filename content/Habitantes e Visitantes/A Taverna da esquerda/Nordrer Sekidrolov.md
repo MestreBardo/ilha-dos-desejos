@@ -2,10 +2,6 @@
 {"publish":true,"title":"Nordrer Sekidrolov","created":"2025-07-10T00:04:21.339+01:00","modified":"2025-07-16T00:10:06.543+01:00","cssclasses":""}
 ---
 
-
-
-
-
 ![[Imagens/Pessoas/Taverna da Esquerda/Nordrer Sekidrolov.webp|200]]
 - **Idade**: 108 anos
 - **Raça**: Anã

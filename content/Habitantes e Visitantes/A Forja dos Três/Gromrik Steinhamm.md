@@ -2,10 +2,6 @@
 {"publish":true,"title":"Gromrik Steinhamm","created":"2025-07-16T00:23:37.064+01:00","modified":"2025-07-16T00:27:50.995+01:00","cssclasses":""}
 ---
 
-
-
-
-
 ![[imagem.webp]]
 - **Idade**: 33 anos
 - **Raça**: Gnomo

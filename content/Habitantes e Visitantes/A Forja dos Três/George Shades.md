@@ -2,10 +2,6 @@
 {"publish":true,"title":"George Shades","created":"2025-07-16T00:24:26.978+01:00","modified":"2025-07-16T00:27:10.022+01:00","cssclasses":""}
 ---
 
-
-
-
-
 ![[imagem.webp]]
 - **Idade**: 30 anos
 - **Raça**: Humano
