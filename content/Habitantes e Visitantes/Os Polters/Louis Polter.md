@@ -2,8 +2,6 @@
 {"publish":true,"title":"Louis Polter","created":"2025-07-16T16:05:38.410+01:00","modified":"2025-07-16T16:16:09.970+01:00","cssclasses":""}
 ---
 
-
-
 - **Idade**: 48 anos
 - **Raça**: Humano
 - **Gênero**: Masculino

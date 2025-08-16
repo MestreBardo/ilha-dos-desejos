@@ -2,11 +2,6 @@
 {"publish":true,"title":"Habitantes e Visitantes","created":"2025-07-09T23:59:25.467+01:00","modified":"2025-07-16T00:29:51.270+01:00","cssclasses":""}
 ---
 
-
-
-
-
-
 > _"Cada pessoa uma história, cada história um destino"_
 
 Os moradores e viajantes são parte importante da ilha, desde um nobre endinheirado até um simples plantador de batatas, passando por um viajante vindo do continente. Eles movimentam o dia a dia da ilha e dão vida aos seus locais.
@@ -21,8 +16,8 @@ Histórias únicas, amizades e inimizades podem ser construídas a partir de cad
 - [[Habitantes e Visitantes/O Barril/Naruda Strohtrock]]
 - [[Habitantes e Visitantes/O Barril/Davina San'tors]]
 - [[Habitantes e Visitantes/O Barril/Grande Martha]]
-- [[Habitantes e Visitantes/O Barril/Aurey Nautilhos]]
-- [[Habitantes e Visitantes/O Barril/Kathra Ganovina]]
+- [[Habitantes e Visitantes/O Barril/Aurey Nautilhos/Aurey Nautilhos]]
+- [[Habitantes e Visitantes/O Barril/Kathra Granovin]]
 ## Ervas e Elixires
 - [[Habitantes e Visitantes/Ervas e Elixires/Maulle Farberoth]]
 ## Recanto Único de Narrativas Arcanas e Símbolos, Arte Rúnica, Criações Autênticas, Novos Arquétipos e Significações

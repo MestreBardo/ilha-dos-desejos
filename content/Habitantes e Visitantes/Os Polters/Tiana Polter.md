@@ -2,8 +2,6 @@
 {"publish":true,"title":"Tiana Polter","created":"2025-07-16T16:05:48.352+01:00","modified":"2025-07-16T16:21:59.827+01:00","cssclasses":""}
 ---
 
-
-
 - **Idade**: 8 anos
 - **Raça**: Humano
 - **Gênero**: Feminina

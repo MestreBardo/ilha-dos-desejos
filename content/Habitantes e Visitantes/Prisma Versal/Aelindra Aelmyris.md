@@ -2,10 +2,6 @@
 {"publish":true,"title":"Aelindra Aelmyris","created":"2025-07-16T15:58:48.720+01:00","modified":"2025-07-16T16:07:27.221+01:00","cssclasses":""}
 ---
 
-
-
-
-
 - **Idade**: 32 anos
 - **Raça**: Humana-Elfa
 - **Gênero**: Feminino

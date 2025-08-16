@@ -2,8 +2,6 @@
 {"publish":true,"title":"Liara Polter","created":"2025-07-16T16:05:40.617+01:00","modified":"2025-07-16T16:25:13.630+01:00","cssclasses":""}
 ---
 
-
-
 - **Idade**: 46 anos
 - **Raça**: Humano
 - **Gênero**: Feminina

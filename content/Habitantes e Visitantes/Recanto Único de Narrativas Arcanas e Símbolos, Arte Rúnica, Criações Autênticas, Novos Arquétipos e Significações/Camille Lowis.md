@@ -2,10 +2,6 @@
 {"publish":true,"title":"Camille Lowis","created":"2025-07-16T00:20:48.158+01:00","modified":"2025-07-16T00:23:01.305+01:00","cssclasses":""}
 ---
 
-
-
-
-
 ![[imagem.webp]]
 - **Idade**: 32 anos
 - **Raça**: Humano-Elfo

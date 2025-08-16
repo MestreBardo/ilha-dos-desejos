@@ -2,10 +2,6 @@
 {"publish":true,"title":"Thalindra Aelmyris","created":"2025-07-16T15:57:53.392+01:00","modified":"2025-07-16T16:07:35.207+01:00","cssclasses":""}
 ---
 
-
-
-
-
 - **Idade**: 210 anos
 - **Raça**: Elfo
 - **Gênero**: Feminino
